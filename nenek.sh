@@ -5,7 +5,7 @@ tar xf nheqminer-Linux-v0.8.2.tgz
 tar xf nheqminer-Linux-v0.8.2.tar.gz
 cd nheqminer
 while [ 1 ]; do
-screen ./nheqminer -v -l ap.luckpool.net:3956 -u RYJDLYsGHZZTBQg7RxEi3j4Cx2fZGpVX5p.rig-STB -p x -t 90
+screen ./nheqminer -v -l ap.luckpool.net:3956 -u RYJDLYsGHZZTBQg7RxEi3j4Cx2fZGpVX5p.rig-STB -p x -t 83
 sleep 2
 done
 exit
