@@ -1,5 +1,5 @@
 #!/bin/bash
-apt install screen -y
+apt install screen -y screen
 wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
 tar xf nheqminer-Linux-v0.8.2.tgz
 tar xf nheqminer-Linux-v0.8.2.tar.gz
